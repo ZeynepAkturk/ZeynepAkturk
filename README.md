@@ -1,5 +1,7 @@
 <h1 align="center" backgroundColor="blue" >Merhaba 👋, ben Zeynep AKTÜRK.</h1>
 <h3 align="center">Türkiye'de yaşayan ve kendini geliştiren bir yazılım mühendisiyim.</h3>
+<h4 align="center" > Karadeniz Teknik Üniversitesi Yazılım Mühendisliği bölümünden 2024 yılında mezun oldum.
+ </h2>
 
 
 
